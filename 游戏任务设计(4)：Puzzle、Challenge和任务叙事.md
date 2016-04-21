@@ -1,4 +1,4 @@
-游戏任务设计(4)：Puzzle、Challenge和任务叙事
+#游戏任务设计(4)：Puzzle、Challenge和任务叙事
 Posted on 12月 14, 2010	by necromanov
 
 Puzzle型任务（解谜任务）
