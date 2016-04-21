@@ -1,4 +1,4 @@
-游戏任务设计(2)：MoveTo与Farm任务
+#游戏任务设计(2)：MoveTo与Farm任务
 Posted on 11月 23, 2010	by necromanov
 
 游戏任务设计 (2)：设计方法之一，MoveTo与Farm
